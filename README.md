@@ -37,7 +37,7 @@ The **AI-Based Emotion Detection System** is a deep learning model designed to r
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/emotion-detection-system.git
+git clone (https://github.com/divyanshhkaushik/Emotion-Detection-System.git)
 
 ### 3️⃣ Run the Model
 - **For real-time detection using webcam:**

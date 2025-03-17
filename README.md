@@ -3,6 +3,10 @@
 ## 📌 Introduction
 The **AI-Based Emotion Detection System** is a deep learning model designed to recognize human emotions from facial expressions. Using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset, this project aims to classify emotions into seven categories: **Happiness, Neutral, Sadness, Anger, Surprise, Disgust, and Fear**. The model can process images and live webcam feeds to predict emotions in real time.
 
+## 🎯 Dataset Used
+The model is trained on the **FER-2013 (Facial Expression Recognition) dataset**, which contains **48x48 grayscale images** categorized into seven emotions.
+- Dataset Source: [Kaggle - FER-2013](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
+
 ## 🚀 Features
 - ✅ Detects emotions from images and webcam video streams.
 - ✅ Uses a **CNN-based deep learning model** for high accuracy.
@@ -53,9 +57,6 @@ python src/train_model.py
 python src/test_model.py 
 ```
 
-## 🎯 Dataset Used
-The model is trained on the **FER-2013 (Facial Expression Recognition) dataset**, which contains **48x48 grayscale images** categorized into seven emotions.
-- Dataset Source: [Kaggle - FER-2013](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
